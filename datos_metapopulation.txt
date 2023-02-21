@@ -1,0 +1,11 @@
+1,0,20 ! N. generaciones, N. generaciones sin control, N. repeticiones
+5 ! N. poblaciones
+10,10 ! N. machos y hembras población 1
+10,10 ! N. machos y hembras población 2
+10,10
+10,10
+10,10
+20,2000000000  ! N. cromosomas, L. del genoma
+1,5 ! Peso de la consanguinidad y numero maximo de migrantes
+2 !matriz de perentesco 0=pedigrí, 1=similitud, 2=L&H, 3=VR1, 4=VR2, 5=YANG
+0

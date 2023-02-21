@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+
+
+touch base.txt
+touch newmaps.txt
+touch newmapsneut.txt
+touch SNP_freq_base.txt
+
+
+rm base.txt
+rm newmaps.txt
+rm newmapsneut.txt
+rm SNP_freq_base.txt
+
+echo "runnig filter "
+./filr
+
+
+
